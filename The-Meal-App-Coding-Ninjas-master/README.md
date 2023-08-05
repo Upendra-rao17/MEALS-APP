@@ -22,4 +22,4 @@ Overall, this project demonstrates your skills in working with APIs, JavaScript,
 
 ## Demo
 
-Site is live at https:https://github.com/Upendra-rao17/MEALS-APP.git
+Site is live at https: https://upendra-rao17.github.io/MEALS-APP/
